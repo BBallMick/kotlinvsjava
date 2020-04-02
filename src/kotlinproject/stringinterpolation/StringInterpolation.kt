@@ -1,4 +1,4 @@
-package kotlinproject
+package kotlinproject.stringinterpolation
 
 fun main() {
 
